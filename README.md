@@ -1,2 +1,2 @@
 # sql_data_warehouse_project
-# Building a data warehouse from scratch
+Building a data warehouse from scratch
